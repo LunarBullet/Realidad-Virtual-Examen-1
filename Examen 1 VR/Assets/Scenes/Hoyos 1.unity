@@ -440,6 +440,7 @@ GameObject:
   - component: {fileID: 16824288}
   - component: {fileID: 16824290}
   - component: {fileID: 16824289}
+  - component: {fileID: 16824291}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -511,6 +512,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 16824287}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &16824291
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 16824287}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1001 &18573306
 PrefabInstance:
@@ -1700,6 +1715,7 @@ GameObject:
   - component: {fileID: 78100773}
   - component: {fileID: 78100775}
   - component: {fileID: 78100774}
+  - component: {fileID: 78100776}
   m_Layer: 0
   m_Name: WoodenLog
   m_TagString: Untagged
@@ -1771,6 +1787,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 78100772}
+  m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
+--- !u!64 &78100776
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 78100772}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
 --- !u!1001 &82690639
 PrefabInstance:
@@ -2264,6 +2294,7 @@ GameObject:
   - component: {fileID: 113169254}
   - component: {fileID: 113169256}
   - component: {fileID: 113169255}
+  - component: {fileID: 113169257}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -2335,6 +2366,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 113169253}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &113169257
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 113169253}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1001 &114991539
 PrefabInstance:
@@ -2530,6 +2575,7 @@ GameObject:
   - component: {fileID: 119734365}
   - component: {fileID: 119734367}
   - component: {fileID: 119734366}
+  - component: {fileID: 119734368}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -2601,6 +2647,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 119734364}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &119734368
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 119734364}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1 &120543418
 GameObject:
@@ -4193,6 +4253,7 @@ GameObject:
   - component: {fileID: 177086149}
   - component: {fileID: 177086151}
   - component: {fileID: 177086150}
+  - component: {fileID: 177086152}
   m_Layer: 0
   m_Name: BookGreen Variant
   m_TagString: Untagged
@@ -4264,6 +4325,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177086148}
+  m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
+--- !u!64 &177086152
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 177086148}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
 --- !u!1001 &177687343
 PrefabInstance:
@@ -5253,7 +5328,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 6283165385240294457, guid: fb4295e3462ff9648a34f8d626c9e25e, type: 3}
 --- !u!1001 &208431966
@@ -5455,6 +5530,7 @@ GameObject:
   - component: {fileID: 217528597}
   - component: {fileID: 217528599}
   - component: {fileID: 217528598}
+  - component: {fileID: 217528600}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -5526,6 +5602,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 217528596}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &217528600
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217528596}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1001 &227521784
 PrefabInstance:
@@ -6203,6 +6293,7 @@ GameObject:
   - component: {fileID: 252492748}
   - component: {fileID: 252492750}
   - component: {fileID: 252492749}
+  - component: {fileID: 252492751}
   m_Layer: 0
   m_Name: Pumpking
   m_TagString: Untagged
@@ -6274,6 +6365,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 252492747}
+  m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
+--- !u!64 &252492751
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 252492747}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
 --- !u!1 &253976988
 GameObject:
@@ -7562,6 +7667,7 @@ GameObject:
   - component: {fileID: 308973111}
   - component: {fileID: 308973113}
   - component: {fileID: 308973112}
+  - component: {fileID: 308973114}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -7633,6 +7739,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 308973110}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &308973114
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308973110}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1001 &312519120
 PrefabInstance:
@@ -7923,6 +8043,7 @@ GameObject:
   - component: {fileID: 320821648}
   - component: {fileID: 320821650}
   - component: {fileID: 320821649}
+  - component: {fileID: 320821651}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -7994,6 +8115,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320821647}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &320821651
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 320821647}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1 &324229952
 GameObject:
@@ -8385,6 +8520,7 @@ GameObject:
   - component: {fileID: 330519867}
   - component: {fileID: 330519869}
   - component: {fileID: 330519868}
+  - component: {fileID: 330519870}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -8456,6 +8592,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330519866}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &330519870
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330519866}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1001 &330563995
 PrefabInstance:
@@ -9145,6 +9295,7 @@ GameObject:
   - component: {fileID: 364042169}
   - component: {fileID: 364042171}
   - component: {fileID: 364042170}
+  - component: {fileID: 364042172}
   m_Layer: 0
   m_Name: Orange (1)
   m_TagString: Untagged
@@ -9216,6 +9367,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 364042168}
+  m_Mesh: {fileID: -6873515605844775145, guid: 23e334b94017efc478007b94d81f16d5, type: 3}
+--- !u!64 &364042172
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364042168}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -6873515605844775145, guid: 23e334b94017efc478007b94d81f16d5, type: 3}
 --- !u!1001 &366271798
 PrefabInstance:
@@ -9993,6 +10158,7 @@ GameObject:
   - component: {fileID: 389269023}
   - component: {fileID: 389269025}
   - component: {fileID: 389269024}
+  - component: {fileID: 389269026}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -10065,6 +10231,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 389269022}
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &389269026
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 389269022}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1 &396613462
 GameObject:
   m_ObjectHideFlags: 0
@@ -10112,6 +10292,7 @@ GameObject:
   - component: {fileID: 398056759}
   - component: {fileID: 398056761}
   - component: {fileID: 398056760}
+  - component: {fileID: 398056762}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -10183,6 +10364,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 398056758}
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &398056762
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398056758}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1 &410087039
 GameObject:
@@ -10342,6 +10537,7 @@ GameObject:
   - component: {fileID: 419276185}
   - component: {fileID: 419276187}
   - component: {fileID: 419276186}
+  - component: {fileID: 419276188}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -10413,6 +10609,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 419276184}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &419276188
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419276184}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &420262534
 GameObject:
@@ -10777,6 +10987,7 @@ GameObject:
   - component: {fileID: 435487512}
   - component: {fileID: 435487514}
   - component: {fileID: 435487513}
+  - component: {fileID: 435487515}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -10848,6 +11059,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 435487511}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &435487515
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435487511}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1001 &435887247
 PrefabInstance:
@@ -11208,6 +11433,7 @@ GameObject:
   - component: {fileID: 452398851}
   - component: {fileID: 452398853}
   - component: {fileID: 452398852}
+  - component: {fileID: 452398854}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -11280,6 +11506,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 452398850}
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &452398854
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 452398850}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &454148316
 GameObject:
   m_ObjectHideFlags: 0
@@ -11291,6 +11531,7 @@ GameObject:
   - component: {fileID: 454148317}
   - component: {fileID: 454148319}
   - component: {fileID: 454148318}
+  - component: {fileID: 454148320}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -11362,6 +11603,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454148316}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &454148320
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 454148316}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1 &454490320
 GameObject:
@@ -12645,6 +12900,7 @@ GameObject:
   - component: {fileID: 488937636}
   - component: {fileID: 488937638}
   - component: {fileID: 488937637}
+  - component: {fileID: 488937639}
   m_Layer: 0
   m_Name: BookGreen Variant
   m_TagString: Untagged
@@ -12716,6 +12972,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 488937635}
+  m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
+--- !u!64 &488937639
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488937635}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
 --- !u!1 &489188383
 GameObject:
@@ -13150,6 +13420,7 @@ GameObject:
   - component: {fileID: 513357815}
   - component: {fileID: 513357817}
   - component: {fileID: 513357816}
+  - component: {fileID: 513357818}
   m_Layer: 0
   m_Name: Pumpking (2)
   m_TagString: Untagged
@@ -13221,6 +13492,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 513357814}
+  m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
+--- !u!64 &513357818
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 513357814}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
 --- !u!1001 &515701026
 PrefabInstance:
@@ -13329,6 +13614,7 @@ GameObject:
   - component: {fileID: 516816204}
   - component: {fileID: 516816206}
   - component: {fileID: 516816205}
+  - component: {fileID: 516816207}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -13400,6 +13686,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 516816203}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &516816207
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 516816203}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &519121586
 GameObject:
@@ -13721,6 +14021,7 @@ GameObject:
   - component: {fileID: 531788684}
   - component: {fileID: 531788686}
   - component: {fileID: 531788685}
+  - component: {fileID: 531788687}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -13792,6 +14093,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 531788683}
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &531788687
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 531788683}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1001 &534724651
 PrefabInstance:
@@ -13971,6 +14286,7 @@ GameObject:
   - component: {fileID: 537449758}
   - component: {fileID: 537449760}
   - component: {fileID: 537449759}
+  - component: {fileID: 537449761}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -14042,6 +14358,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 537449757}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &537449761
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537449757}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &541972924
 GameObject:
@@ -15325,6 +15655,7 @@ GameObject:
   - component: {fileID: 607514124}
   - component: {fileID: 607514126}
   - component: {fileID: 607514125}
+  - component: {fileID: 607514127}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -15397,6 +15728,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 607514123}
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &607514127
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607514123}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1 &611290905
 GameObject:
   m_ObjectHideFlags: 0
@@ -15453,6 +15798,7 @@ GameObject:
   - component: {fileID: 611468140}
   - component: {fileID: 611468142}
   - component: {fileID: 611468141}
+  - component: {fileID: 611468143}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -15524,6 +15870,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 611468139}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &611468143
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 611468139}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1001 &612117996
 PrefabInstance:
@@ -16158,6 +16518,7 @@ GameObject:
   - component: {fileID: 642859599}
   - component: {fileID: 642859601}
   - component: {fileID: 642859600}
+  - component: {fileID: 642859602}
   m_Layer: 0
   m_Name: Pumpking (1)
   m_TagString: Untagged
@@ -16229,6 +16590,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 642859598}
+  m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
+--- !u!64 &642859602
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 642859598}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
 --- !u!1 &646467418
 GameObject:
@@ -16915,6 +17290,7 @@ GameObject:
   - component: {fileID: 669474376}
   - component: {fileID: 669474378}
   - component: {fileID: 669474377}
+  - component: {fileID: 669474379}
   m_Layer: 0
   m_Name: WoodenLog
   m_TagString: Untagged
@@ -16986,6 +17362,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 669474375}
+  m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
+--- !u!64 &669474379
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 669474375}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
 --- !u!1001 &669592572
 PrefabInstance:
@@ -17320,6 +17710,7 @@ GameObject:
   - component: {fileID: 682890998}
   - component: {fileID: 682891000}
   - component: {fileID: 682890999}
+  - component: {fileID: 682891001}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -17391,6 +17782,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 682890997}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &682891001
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 682890997}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1 &689506742
 GameObject:
@@ -17798,6 +18203,7 @@ GameObject:
   - component: {fileID: 701766974}
   - component: {fileID: 701766976}
   - component: {fileID: 701766975}
+  - component: {fileID: 701766977}
   m_Layer: 0
   m_Name: BookGreen Variant
   m_TagString: Untagged
@@ -17870,6 +18276,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 701766973}
   m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
+--- !u!64 &701766977
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 701766973}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
 --- !u!1 &709993166
 GameObject:
   m_ObjectHideFlags: 0
@@ -17881,6 +18301,7 @@ GameObject:
   - component: {fileID: 709993167}
   - component: {fileID: 709993169}
   - component: {fileID: 709993168}
+  - component: {fileID: 709993170}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -17952,6 +18373,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 709993166}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &709993170
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 709993166}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1001 &710807069
 PrefabInstance:
@@ -18179,6 +18614,7 @@ GameObject:
   - component: {fileID: 722698921}
   - component: {fileID: 722698923}
   - component: {fileID: 722698922}
+  - component: {fileID: 722698924}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -18250,6 +18686,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 722698920}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &722698924
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722698920}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1 &726130236
 GameObject:
@@ -20917,6 +21367,7 @@ GameObject:
   - component: {fileID: 846185364}
   - component: {fileID: 846185366}
   - component: {fileID: 846185365}
+  - component: {fileID: 846185367}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -20988,6 +21439,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 846185363}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &846185367
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 846185363}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1001 &850191092
 PrefabInstance:
@@ -22786,6 +23251,7 @@ GameObject:
   - component: {fileID: 904072316}
   - component: {fileID: 904072318}
   - component: {fileID: 904072317}
+  - component: {fileID: 904072319}
   m_Layer: 0
   m_Name: Pumpking
   m_TagString: Untagged
@@ -22857,6 +23323,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904072315}
+  m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
+--- !u!64 &904072319
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 904072315}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
 --- !u!1001 &904834925
 PrefabInstance:
@@ -25064,6 +25544,7 @@ GameObject:
   - component: {fileID: 977541880}
   - component: {fileID: 977541882}
   - component: {fileID: 977541881}
+  - component: {fileID: 977541883}
   m_Layer: 0
   m_Name: BookGreen Variant
   m_TagString: Untagged
@@ -25135,6 +25616,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 977541879}
+  m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
+--- !u!64 &977541883
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977541879}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
 --- !u!1 &979185439
 GameObject:
@@ -26292,6 +26787,7 @@ GameObject:
   - component: {fileID: 1048274609}
   - component: {fileID: 1048274611}
   - component: {fileID: 1048274610}
+  - component: {fileID: 1048274612}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -26363,6 +26859,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1048274608}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &1048274612
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1048274608}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!114 &1052296791 stripped
 MonoBehaviour:
@@ -27837,6 +28347,7 @@ GameObject:
   - component: {fileID: 1100894940}
   - component: {fileID: 1100894942}
   - component: {fileID: 1100894941}
+  - component: {fileID: 1100894943}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -27908,6 +28419,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1100894939}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &1100894943
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1100894939}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1 &1104326564
 GameObject:
@@ -30546,6 +31071,7 @@ GameObject:
   - component: {fileID: 1200502957}
   - component: {fileID: 1200502959}
   - component: {fileID: 1200502958}
+  - component: {fileID: 1200502960}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -30617,6 +31143,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1200502956}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &1200502960
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200502956}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1001 &1203786527
 PrefabInstance:
@@ -31047,6 +31587,7 @@ GameObject:
   - component: {fileID: 1215136549}
   - component: {fileID: 1215136551}
   - component: {fileID: 1215136550}
+  - component: {fileID: 1215136552}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -31118,6 +31659,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1215136548}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &1215136552
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1215136548}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1001 &1217223700
 PrefabInstance:
@@ -31785,6 +32340,7 @@ GameObject:
   - component: {fileID: 1238058103}
   - component: {fileID: 1238058105}
   - component: {fileID: 1238058104}
+  - component: {fileID: 1238058106}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -31856,6 +32412,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1238058102}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &1238058106
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1238058102}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1001 &1238563824
 PrefabInstance:
@@ -31954,6 +32524,7 @@ GameObject:
   - component: {fileID: 1240422195}
   - component: {fileID: 1240422197}
   - component: {fileID: 1240422196}
+  - component: {fileID: 1240422198}
   m_Layer: 0
   m_Name: Pumpking (6)
   m_TagString: Untagged
@@ -32025,6 +32596,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1240422194}
+  m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
+--- !u!64 &1240422198
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1240422194}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8317572690992909458, guid: 79c5935e3d3ea504db56922a02205249, type: 3}
 --- !u!1 &1241001377
 GameObject:
@@ -32157,6 +32742,7 @@ GameObject:
   - component: {fileID: 1251069244}
   - component: {fileID: 1251069246}
   - component: {fileID: 1251069245}
+  - component: {fileID: 1251069247}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -32228,6 +32814,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1251069243}
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &1251069247
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1251069243}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1 &1251102978
 GameObject:
@@ -33451,6 +34051,7 @@ GameObject:
   - component: {fileID: 1296011064}
   - component: {fileID: 1296011066}
   - component: {fileID: 1296011065}
+  - component: {fileID: 1296011067}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -33522,6 +34123,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296011063}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &1296011067
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1296011063}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &1296383606
 GameObject:
@@ -34101,6 +34716,7 @@ GameObject:
   - component: {fileID: 1312487844}
   - component: {fileID: 1312487846}
   - component: {fileID: 1312487845}
+  - component: {fileID: 1312487847}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -34172,6 +34788,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1312487843}
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &1312487847
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1312487843}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1001 &1313082868
 PrefabInstance:
@@ -34770,6 +35400,7 @@ GameObject:
   - component: {fileID: 1329366514}
   - component: {fileID: 1329366516}
   - component: {fileID: 1329366515}
+  - component: {fileID: 1329366517}
   m_Layer: 0
   m_Name: Wand
   m_TagString: Untagged
@@ -34845,6 +35476,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1329366513}
+  m_Mesh: {fileID: -4839248268931959448, guid: 5767d7915f9eadb48ac35b424d6a59c1, type: 3}
+--- !u!64 &1329366517
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1329366513}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -4839248268931959448, guid: 5767d7915f9eadb48ac35b424d6a59c1, type: 3}
 --- !u!1 &1334215644
 GameObject:
@@ -35564,6 +36209,7 @@ GameObject:
   - component: {fileID: 1376524194}
   - component: {fileID: 1376524196}
   - component: {fileID: 1376524195}
+  - component: {fileID: 1376524197}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -35635,6 +36281,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1376524193}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &1376524197
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376524193}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &1379420753
 GameObject:
@@ -38547,6 +39207,7 @@ GameObject:
   - component: {fileID: 1503455742}
   - component: {fileID: 1503455744}
   - component: {fileID: 1503455743}
+  - component: {fileID: 1503455745}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -38619,6 +39280,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1503455741}
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &1503455745
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1503455741}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1 &1504362806
 GameObject:
   m_ObjectHideFlags: 0
@@ -38628,6 +39303,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1504362807}
+  - component: {fileID: 1504362808}
   m_Layer: 0
   m_Name: BookHolder
   m_TagString: Untagged
@@ -38651,6 +39327,20 @@ Transform:
   m_Father: {fileID: 208431969}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &1504362808
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1504362806}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1001 &1505465039
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39185,6 +39875,7 @@ GameObject:
   - component: {fileID: 1514585989}
   - component: {fileID: 1514585991}
   - component: {fileID: 1514585990}
+  - component: {fileID: 1514585992}
   m_Layer: 0
   m_Name: WoodenLog
   m_TagString: Untagged
@@ -39256,6 +39947,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514585988}
+  m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
+--- !u!64 &1514585992
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1514585988}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
 --- !u!1001 &1516555219
 PrefabInstance:
@@ -39712,6 +40417,7 @@ GameObject:
   - component: {fileID: 1526172751}
   - component: {fileID: 1526172753}
   - component: {fileID: 1526172752}
+  - component: {fileID: 1526172754}
   m_Layer: 0
   m_Name: Cheese (1)
   m_TagString: Untagged
@@ -39784,6 +40490,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526172750}
   m_Mesh: {fileID: -3535398744992562706, guid: bd5c9c26ed82ab34db467c39d05ecbdc, type: 3}
+--- !u!64 &1526172754
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1526172750}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3535398744992562706, guid: bd5c9c26ed82ab34db467c39d05ecbdc, type: 3}
 --- !u!114 &1535214088 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3607323991379943426, guid: 702caa48c730e92469a1c5144fd8ed46,
@@ -39807,6 +40527,7 @@ GameObject:
   - component: {fileID: 1535518921}
   - component: {fileID: 1535518923}
   - component: {fileID: 1535518922}
+  - component: {fileID: 1535518924}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -39878,6 +40599,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535518920}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &1535518924
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1535518920}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1 &1537242954
 GameObject:
@@ -40152,6 +40887,7 @@ GameObject:
   - component: {fileID: 1546780124}
   - component: {fileID: 1546780126}
   - component: {fileID: 1546780125}
+  - component: {fileID: 1546780127}
   m_Layer: 0
   m_Name: BookGreen Variant
   m_TagString: Untagged
@@ -40223,6 +40959,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1546780123}
+  m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
+--- !u!64 &1546780127
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546780123}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
 --- !u!1001 &1548550351
 PrefabInstance:
@@ -41178,6 +41928,7 @@ GameObject:
   - component: {fileID: 1579195221}
   - component: {fileID: 1579195223}
   - component: {fileID: 1579195222}
+  - component: {fileID: 1579195224}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -41249,6 +42000,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1579195220}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &1579195224
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579195220}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1001 &1581254618
 PrefabInstance:
@@ -42236,6 +43001,7 @@ GameObject:
   - component: {fileID: 1615766093}
   - component: {fileID: 1615766095}
   - component: {fileID: 1615766094}
+  - component: {fileID: 1615766096}
   m_Layer: 0
   m_Name: BookGreen Variant
   m_TagString: Untagged
@@ -42307,6 +43073,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1615766092}
+  m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
+--- !u!64 &1615766096
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1615766092}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 2388011353849419059, guid: 8bf410868a62ffd49834417a557e760c, type: 3}
 --- !u!1 &1620026935
 GameObject:
@@ -43016,6 +43796,7 @@ GameObject:
   - component: {fileID: 1633208409}
   - component: {fileID: 1633208411}
   - component: {fileID: 1633208410}
+  - component: {fileID: 1633208412}
   m_Layer: 0
   m_Name: WoodenLog
   m_TagString: Untagged
@@ -43088,6 +43869,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1633208408}
   m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
+--- !u!64 &1633208412
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633208408}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
 --- !u!1 &1633887553
 GameObject:
   m_ObjectHideFlags: 0
@@ -43099,6 +43894,7 @@ GameObject:
   - component: {fileID: 1633887554}
   - component: {fileID: 1633887556}
   - component: {fileID: 1633887555}
+  - component: {fileID: 1633887557}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -43170,6 +43966,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1633887553}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &1633887557
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633887553}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1001 &1638647078
 PrefabInstance:
@@ -44170,6 +44980,7 @@ GameObject:
   - component: {fileID: 1660109748}
   - component: {fileID: 1660109750}
   - component: {fileID: 1660109749}
+  - component: {fileID: 1660109751}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -44241,6 +45052,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1660109747}
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &1660109751
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1660109747}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1001 &1673245790
 PrefabInstance:
@@ -44852,6 +45677,7 @@ GameObject:
   - component: {fileID: 1690016116}
   - component: {fileID: 1690016118}
   - component: {fileID: 1690016117}
+  - component: {fileID: 1690016119}
   m_Layer: 0
   m_Name: BookRed Variant
   m_TagString: Untagged
@@ -44923,6 +45749,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1690016115}
+  m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
+--- !u!64 &1690016119
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1690016115}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -8753488789842677006, guid: f0e429f9867e60a4bb625920c1d9a937, type: 3}
 --- !u!1001 &1696710043
 PrefabInstance:
@@ -46835,6 +47675,7 @@ GameObject:
   - component: {fileID: 1761246533}
   - component: {fileID: 1761246535}
   - component: {fileID: 1761246534}
+  - component: {fileID: 1761246536}
   m_Layer: 0
   m_Name: WoodenLog
   m_TagString: Untagged
@@ -46907,6 +47748,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761246532}
   m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
+--- !u!64 &1761246536
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761246532}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -664622057891512100, guid: 514c05e59d36d8f4ba0f0a9c80f0ef2e, type: 3}
 --- !u!1 &1762789093
 GameObject:
   m_ObjectHideFlags: 0
@@ -46918,6 +47773,7 @@ GameObject:
   - component: {fileID: 1762789094}
   - component: {fileID: 1762789096}
   - component: {fileID: 1762789095}
+  - component: {fileID: 1762789097}
   m_Layer: 0
   m_Name: Feather (1)
   m_TagString: Untagged
@@ -46990,6 +47846,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1762789093}
   m_Mesh: {fileID: 188874593064824368, guid: b1a4fecd72cff5f43938365167c80fc5, type: 3}
+--- !u!64 &1762789097
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1762789093}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 188874593064824368, guid: b1a4fecd72cff5f43938365167c80fc5, type: 3}
 --- !u!1 &1768898839
 GameObject:
   m_ObjectHideFlags: 0
@@ -47001,6 +47871,7 @@ GameObject:
   - component: {fileID: 1768898840}
   - component: {fileID: 1768898842}
   - component: {fileID: 1768898841}
+  - component: {fileID: 1768898843}
   m_Layer: 0
   m_Name: BookNavy Variant
   m_TagString: Untagged
@@ -47072,6 +47943,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1768898839}
+  m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
+--- !u!64 &1768898843
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1768898839}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 4331438376880630731, guid: da46f27ebeb7d3947b9497ee161a31ed, type: 3}
 --- !u!1001 &1772311356
 PrefabInstance:
@@ -49064,6 +49949,7 @@ GameObject:
   - component: {fileID: 1854420589}
   - component: {fileID: 1854420591}
   - component: {fileID: 1854420590}
+  - component: {fileID: 1854420592}
   m_Layer: 0
   m_Name: BookBrown Variant
   m_TagString: Untagged
@@ -49135,6 +50021,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1854420588}
+  m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
+--- !u!64 &1854420592
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1854420588}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -614900428522117563, guid: 69d25300cfe0ff34cab94eabf22210ea, type: 3}
 --- !u!1 &1857464923
 GameObject:
@@ -52236,6 +53136,7 @@ GameObject:
   - component: {fileID: 1988661237}
   - component: {fileID: 1988661239}
   - component: {fileID: 1988661238}
+  - component: {fileID: 1988661240}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -52307,6 +53208,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1988661236}
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &1988661240
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1988661236}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1 &1989858555
 GameObject:
@@ -53330,6 +54245,7 @@ GameObject:
   - component: {fileID: 2020417299}
   - component: {fileID: 2020417301}
   - component: {fileID: 2020417300}
+  - component: {fileID: 2020417302}
   m_Layer: 0
   m_Name: Radio
   m_TagString: Untagged
@@ -53403,6 +54319,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2020417298}
+  m_Mesh: {fileID: 6993768116771518644, guid: 6cf01a2728405b142859ffd2796ff3b8, type: 3}
+--- !u!64 &2020417302
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020417298}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 6993768116771518644, guid: 6cf01a2728405b142859ffd2796ff3b8, type: 3}
 --- !u!1001 &2022126361
 PrefabInstance:
@@ -54267,6 +55197,7 @@ GameObject:
   - component: {fileID: 2041699462}
   - component: {fileID: 2041699464}
   - component: {fileID: 2041699463}
+  - component: {fileID: 2041699465}
   m_Layer: 0
   m_Name: BookYellow Variant
   m_TagString: Untagged
@@ -54339,6 +55270,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2041699461}
   m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
+--- !u!64 &2041699465
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2041699461}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5526333316045018313, guid: bf943320b75f4c7459c045b229d3f6bb, type: 3}
 --- !u!1 &2049441907
 GameObject:
   m_ObjectHideFlags: 0
@@ -54350,6 +55295,7 @@ GameObject:
   - component: {fileID: 2049441908}
   - component: {fileID: 2049441910}
   - component: {fileID: 2049441909}
+  - component: {fileID: 2049441911}
   m_Layer: 0
   m_Name: Onion
   m_TagString: Untagged
@@ -54421,6 +55367,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2049441907}
+  m_Mesh: {fileID: 5395979974658641650, guid: e30b5a1c26bf93042a901424824f3c73, type: 3}
+--- !u!64 &2049441911
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2049441907}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5395979974658641650, guid: e30b5a1c26bf93042a901424824f3c73, type: 3}
 --- !u!1001 &2052423291
 PrefabInstance:
@@ -55555,6 +56515,7 @@ GameObject:
   - component: {fileID: 2099255030}
   - component: {fileID: 2099255032}
   - component: {fileID: 2099255031}
+  - component: {fileID: 2099255033}
   m_Layer: 0
   m_Name: BookBlue Variant
   m_TagString: Untagged
@@ -55626,6 +56587,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2099255029}
+  m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
+--- !u!64 &2099255033
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2099255029}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: -1592626795879024796, guid: 3997bb47d750c6b43a45ffbe9a805fde, type: 3}
 --- !u!1001 &2099587057
 PrefabInstance:
@@ -56854,6 +57829,7 @@ GameObject:
   - component: {fileID: 2135880095}
   - component: {fileID: 2135880097}
   - component: {fileID: 2135880096}
+  - component: {fileID: 2135880098}
   m_Layer: 0
   m_Name: Onion (1)
   m_TagString: Untagged
@@ -56925,6 +57901,20 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2135880094}
+  m_Mesh: {fileID: 5395979974658641650, guid: e30b5a1c26bf93042a901424824f3c73, type: 3}
+--- !u!64 &2135880098
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2135880094}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
   m_Mesh: {fileID: 5395979974658641650, guid: e30b5a1c26bf93042a901424824f3c73, type: 3}
 --- !u!1001 &2137058210
 PrefabInstance:
