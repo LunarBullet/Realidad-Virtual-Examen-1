@@ -6,10 +6,10 @@ using UnityEngine;
 
 public class UnlockWithKey : MonoBehaviour
 {
-    [SerializeField] LinearDriveFacade _linearDriveFacade;
-    [SerializeField] private Rigidbody rb;
-
-    [SerializeField] GameObject gabeta;
+    // [SerializeField] LinearDriveFacade _linearDriveFacade;
+    // [SerializeField] private Rigidbody rb;
+    //
+    // [SerializeField] GameObject gabeta;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,19 +22,19 @@ public class UnlockWithKey : MonoBehaviour
         
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-        Debug.Log("collided with: "+ other.name);
-        
-        if (other.name=="collider key")
-        {
-            _linearDriveFacade.MoveToTargetValue = false;
-            rb.isKinematic = false;
-            Destroy(this.gameObject);
-            Debug.Log("collided with the collider that requries a key");
-        }
-
-    }
+    // private void OnTriggerEnter(Collider other)
+    // {
+    //     Debug.Log("collided with: "+ other.name);
+    //     
+    //     if (other.name=="collider key")
+    //     {
+    //         _linearDriveFacade.MoveToTargetValue = false;
+    //         rb.isKinematic = false;
+    //         Destroy(this.gameObject);
+    //         Debug.Log("collided with the collider that requries a key");
+    //     }
+    //
+    // }
 
   
 }
