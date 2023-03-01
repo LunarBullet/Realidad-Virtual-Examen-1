@@ -25,18 +25,15 @@ public class UnlockWithKey : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         Debug.Log("collided with: "+ other.name);
+        
         if (other.name=="collider key")
         {
             _linearDriveFacade.MoveToTargetValue = false;
             rb.isKinematic = false;
-            Destroy(this);
+            Destroy(this.gameObject);
+            Debug.Log("collided with the collider that requries a key");
         }
 
-        if (expr)
-        {
-            
-        }
-        //check
     }
 
   
